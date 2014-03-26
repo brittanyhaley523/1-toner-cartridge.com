@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /ink_15/
+Sitemap: http://www.1-toner-cartridge.com/sitemap.xml 
